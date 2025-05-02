@@ -1,2 +1,2 @@
-In the file Fan_app.zip, you will find the files for the application of the fan. This is the software used to get an image send it to the fan.
-In the file Test_fan_app.zip, you will find the function used to test the integrity of the data by creating an image from the data in the byte array.
+- In the file Fan_app.zip, you will find the files for the application of the fan. This is the software used to get an image send it to the fan.
+- In the file Test_fan_app.zip, you will find the function used to test the integrity of the data by creating an image from the data in the byte array.
